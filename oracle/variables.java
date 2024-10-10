@@ -60,6 +60,9 @@ class Solution {
         // Underscores can improve readability of code. Only numerical values. Only between digits
         int myHex = 0x1_123_123; // not like 0x_123
         float myFloat = 1_123.123f; // not like 123_.123f
+        float a = 3;
+        int i = (int) a/2;
+        System.out.println(i);
 
     }
 }
