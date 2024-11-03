@@ -1,4 +1,4 @@
-package Module2.OOP;
+package Module3.OOP;
 
 public class Homework2 {
     public static void main(String[] args) {
