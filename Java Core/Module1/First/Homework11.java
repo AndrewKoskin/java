@@ -1,4 +1,4 @@
-package First;
+package Module1.First;
 
 import java.util.Scanner;
 

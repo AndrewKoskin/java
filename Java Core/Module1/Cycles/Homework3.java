@@ -1,4 +1,4 @@
-package Cycles;
+package Module1.Cycles;
 
 public class Homework3 {
     //Найти среди чисел от 50 до 70 второе простое число и завершить цикл с  использованием break.

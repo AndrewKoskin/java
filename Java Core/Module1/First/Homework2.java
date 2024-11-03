@@ -1,4 +1,4 @@
-package First;
+package Module1.First;
 
 public class Homework2 {
     public static void main(String[] args) {

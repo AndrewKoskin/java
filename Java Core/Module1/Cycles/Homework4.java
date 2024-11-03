@@ -1,4 +1,4 @@
-package Cycles;
+package Module1.Cycles;
 
 import java.util.Scanner;
 

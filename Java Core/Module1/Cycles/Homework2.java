@@ -1,4 +1,4 @@
-package Cycles;
+package Module1.Cycles;
 
 public class Homework2 {
     //Посчитать сумму цифр числа 7893823445 с помощью цикла do while.

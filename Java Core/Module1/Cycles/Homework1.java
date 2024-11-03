@@ -1,4 +1,4 @@
-package Cycles;
+package Module1.Cycles;
 
 public class Homework1 {
     public static void main(String[] args) {
