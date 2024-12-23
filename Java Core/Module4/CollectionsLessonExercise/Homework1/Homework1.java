@@ -1,4 +1,4 @@
-package Module4.Homework1;
+package Module4.CollectionsLessonExercise.Homework1;
 
 import java.util.ArrayList;
 import java.util.Iterator;

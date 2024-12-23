@@ -1,4 +1,4 @@
-package Module4.Homework2;
+package Module4.CollectionsLessonExercise.Homework2;
 
 import java.util.ArrayList;
 import java.util.HashSet;
