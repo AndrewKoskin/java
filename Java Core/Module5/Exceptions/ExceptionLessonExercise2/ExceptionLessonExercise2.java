@@ -1,5 +1,6 @@
 package Module5.Exceptions.ExceptionLessonExercise2;
 
+import java.io.IOException;
 import java.util.Map;
 
 public class ExceptionLessonExercise2 {
@@ -10,7 +11,7 @@ public class ExceptionLessonExercise2 {
             checkTooLongField(entry.getKey(), entry.getValue());
             checkFieldMask(entry.getKey(), entry.getValue());
         }
-        if (!password.equals(confirmPassword)){
+        if (!password.equals(confirmPassword)) {
             throw new PasswordsNotEqualException("Passwords not equal", password, confirmPassword);
         }
         System.out.print("Login successfully done!");
