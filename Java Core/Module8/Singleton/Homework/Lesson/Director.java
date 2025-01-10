@@ -1,4 +1,4 @@
-package Module8.Singleton.Lesson;
+package Module8.Singleton.Homework.Lesson;
 
 import java.util.concurrent.*;
 
